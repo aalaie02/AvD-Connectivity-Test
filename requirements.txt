@@ -1,0 +1,7 @@
+streamlit
+pandas
+aiohttp
+matplotlib
+altair
+xlsxwriter
+Pillow
